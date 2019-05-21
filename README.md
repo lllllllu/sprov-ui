@@ -51,6 +51,10 @@ wget -O /usr/bin/sprov-ui -N --no-check-certificate https://blog.sprov.xyz/sprov
 wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/sprov065/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
+脚本修改后运行
+```
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/koonuz/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+```
 
 # Telegram 群组
 https://t.me/sprov_blog
