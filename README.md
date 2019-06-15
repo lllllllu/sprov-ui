@@ -53,7 +53,7 @@ wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/sprov065/
 ```
 脚本修改后运行
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/koonuz/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://github.com/lllllllu/sprov-ui/raw/master/sprov-ui.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 ```
 
 # Telegram 群组
